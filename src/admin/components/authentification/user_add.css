@@ -1,0 +1,13 @@
+.register{
+    margin: 0;
+    padding: 0;
+    width: 100vh;
+    height: 87vh;
+    background-image: linear-gradient(to right, white 47%, #e1e1e1);
+}
+.register .row{
+    background-image: url("../../../prof_frontend.png");
+    background-repeat: no-repeat;
+    background-size: 50% 100%;
+    background-position-y: 50px;
+}

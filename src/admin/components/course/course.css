@@ -1,0 +1,19 @@
+.zzz {
+    display: flex;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.zzzz {
+    display: flex;
+    background-color: skyblue;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.zzz .zzz1{
+    width: 15%;
+}

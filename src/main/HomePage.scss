@@ -1,0 +1,176 @@
+$mainColor: #150C01;
+$mainColors: #DC780B;
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.navbar {
+  width: 100%;
+  height: 100px;
+  padding: 0 !important;
+
+  a{
+    text-decoration: none;
+  }
+
+  nav {
+    position: relative;
+    z-index: 10;
+    background-color: #f9f9f9;
+    padding: 0;
+
+    .left {
+      a {
+        margin-right: 35px;
+
+        &:focus {
+          outline: none;
+        }
+
+        img {
+          width: 247px;
+          height: 48px;
+        }
+      }
+    }
+
+    .right {
+      .navbar-nav {
+        .nav-item {
+          .nav-link {
+            margin-right: 20px;
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 19px;
+            color: $mainColor;
+          }
+        }
+      }
+
+      .UserProfil{
+        .User{
+          width: 50px;
+          height: 50px;
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background-color: #e1e1e1;
+          cursor: pointer;
+          margin-right: 90px;
+        }
+        .profile{
+          border-radius: 10px;
+          top: 78px;
+          right: 80px;
+          width: 180px;
+          height: 180px;
+          z-index: 3;
+          background-color: rgb(183, 183, 183);
+          position: absolute;
+          .line {
+            margin-top: 5px;
+            width: 100%;
+            height: 1px;
+            background-color: white;
+          }
+          .NameUser{
+            font-weight: 700;
+            font-size: 20px;
+            text-shadow: 1px 1px 2px white;
+            margin-top: 5px;
+            margin-left: 40px;
+            line-height: 150%;
+          }
+          .SignOut{
+            .logOutMain{
+              width: 100%;
+              height: 35px;
+              padding-left: 15px;
+              display: flex;
+              cursor: pointer;
+              font-weight: 500;
+              font-size: 15px;
+              align-items: center;
+              margin-top: 10px;
+              transition: 0.3s;
+              border-radius: 16px;
+              &:hover{
+                background-color: rgba(221, 221, 221, 0.93);
+              }
+              .settings{
+                margin-left: 10px;
+              }
+              .help{
+                margin-left: 10px;
+              }
+              .logOut{
+                margin-left: 10px;
+              }
+              .signImg{
+                cursor: pointer;
+                margin: 0 0px 0 0 !important;
+                width: 18px !important;
+                height: 18px !important;
+              }
+            }
+          }
+        }
+      }
+
+
+      button {
+        width: 155px;
+        height: 46px;
+        font-size: 16px;
+        line-height: 19px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px;
+      }
+    }
+  }
+}
+
+.main {
+  background-color: #666666;
+  padding-bottom: 200px;
+
+  .container {
+
+
+    .mainTitle {
+      margin-top: 160px;
+      text-align: center;
+      line-height: 100%;
+      font-weight: 700;
+      font-size: 80px;
+    }
+
+    .mainParagraf {
+      margin-top: 70px;
+      font-size: 26px;
+      text-align: center;
+      color: white;
+
+      span {
+        font-weight: 700;
+      }
+    }
+
+    .button {
+      display: flex;
+      justify-content: center;
+      margin-top: 30px;
+
+      button {
+        width: 240px;
+        height: 50px;
+      }
+    }
+  }
+}
