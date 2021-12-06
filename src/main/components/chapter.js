@@ -70,7 +70,6 @@ function Chapter(props) {
             <div className="container">
                 <div className="row">
                     <div className="col-md-8">
-                        {JSON.stringify(courseLesson)}
                         <div className="course">
                             <div className="img_box">
                                 <img src={course.image_url} alt=""/>

@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9f9d7ef-f25d-4148-bce3-a87ccfe76b73" name="Default Changelist" comment="" />
+    <list default="true" id="c9f9d7ef-f25d-4148-bce3-a87ccfe76b73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/course.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/courseCard.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/actions/action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/authentification/authentication.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/authentification/authentification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/authentification/user-add.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/course/add-course.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/course/chapter/add-course-chapter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/course/course.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/course/list-course.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/layout/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/layout/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/lesson/lesson.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/admin/components/lesson/lesson.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/chapters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/course.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/lessons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/src (2)/src/reducer/userReducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/components/chapter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/components/chapter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/components/course.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/components/course.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/components/course.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/components/course.scss" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,11 +45,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1yCrrZ7Gg3JadKbRAkkGW9mePEb" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -121,10 +152,25 @@
       <workItem from="1634893050339" duration="8000" />
       <workItem from="1634898951721" duration="8665000" />
       <workItem from="1635588492896" duration="14000" />
+      <workItem from="1638600113441" duration="8000" />
+      <workItem from="1638765474370" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
